@@ -1,4 +1,7 @@
+# Deprecated. Please use [rollup-plugin-off-main-thread](https://github.com/surma/rollup-plugin-off-main-thread)
+
 # rollup-plugin-loadz0r
+
 
 An ill-named rollup plugin so you can use `import()` in every browser, even in workers.
 
